@@ -12,8 +12,8 @@
 //
 
 // These need to be macro's, as version.cpp's voodoo requires it
-#define CLIENT_VERSION_MAJOR       1
-#define CLIENT_VERSION_MINOR       1
+#define CLIENT_VERSION_MAJOR       2
+#define CLIENT_VERSION_MINOR       2
 #define CLIENT_VERSION_REVISION    0
 #define CLIENT_VERSION_BUILD       0
 
@@ -45,6 +45,6 @@ static const int NOBLKS_VERSION_START = 32000;
 static const int NOBLKS_VERSION_END = 32400;
 
 // BIP 0031, pong message, is enabled for all versions AFTER this one
-static const int BIP0031_VERSION = 60003;
+static const int BIP0031_VERSION = 60002;
 
 #endif
