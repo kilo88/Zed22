@@ -35,7 +35,7 @@ static const unsigned int MAX_TX_COMMENT_LEN = 140; // Florincoin: 128 bytes + l
 
 static const int64 MIN_TX_FEE = 1000000;
 static const int64 MIN_RELAY_TX_FEE = MIN_TX_FEE;
-static const int64 MAX_MONEY = 120000000 * COIN; // ZedCoin: maximum of 120 million coins
+static const int64 MAX_MONEY = 20000000 * COIN; // ZedCoin: maximum of 20 million coins
 static const int64 TOTAL_GENERATION = MAX_MONEY;
 static const double SERVICE_TAX_PERCENTAGE = 0.02;
 inline bool MoneyRange(int64 nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
