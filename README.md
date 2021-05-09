@@ -1,4 +1,4 @@
-﻿ZedCoin(ZED) ver 2.2 – A legacy reboot cyptocurrency usitilizing scrypt algorithm as a proof of work scheme.
+﻿ZedCoin(ZED) ver 2.2 – A legacy reboot cyptocurrency utilizing scrypt algorithm as a proof of work scheme.
 
 - Scrypt Algorithm
 - 1 minute blocks
