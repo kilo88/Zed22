@@ -1,4 +1,4 @@
-﻿ZedCoin(ZED) ver 2.2 – A new generation of cyptocurrency that is a descendant of Litecoin. Like its predecessor, it uses the scrypt algorithm as a proof of work scheme.
+﻿ZedCoin(ZED) ver 2.2 – A legacy reboot cyptocurrency usitilizing scrypt algorithm as a proof of work scheme.
 
 - Scrypt Algorithm
 - 1 minute blocks
@@ -8,7 +8,6 @@
 - Transaction messages supported
 - Coin maturity at 30 block confirmations
 
-*Fork at block 97000
 
 Ports
 -----
@@ -44,4 +43,4 @@ Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labelled 'stale'. 
 
- © 2014 www.zedcoins.com
+ © 2021 www.zedcoins.com
